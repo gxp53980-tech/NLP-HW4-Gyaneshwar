@@ -1,4 +1,4 @@
-# 🧠 NLP HW4 -- Character RNN & Mini Transformer Encoder
+#  NLP HW4 -- Character RNN & Mini Transformer Encoder
 
 This repository contains implementations of core neural
 language-modeling components, including:
@@ -11,14 +11,14 @@ These implementations are designed for educational purposes and follow
 the structure of typical NLP coursework involving sequence modeling,
 attention mechanisms, and transformer architectures.
 
-## 📁 Project Structure
+## Project Structure
 
     .
     ├── char_rnn_language_model.py        # Character-level RNN language model
     ├── scaled_dot_product_attention.py   # Attention mechanism
     ├── mini_transformer_encoder.py       # Lightweight Transformer encoder block
 
-## 🚀 Features
+## Features
 
 ### 1. **Character RNN Language Model**
 
@@ -45,11 +45,11 @@ attention mechanisms, and transformer architectures.
 -   Represents the core building block of modern transformer
     architectures
 
-## 🛠️ Requirements
+## Requirements
 
     pip install torch numpy
 
-## ▶️ Usage
+## Usage
 
 ### Character RNN Language Model
 
@@ -77,7 +77,7 @@ encoder = MiniTransformerEncoder(...)
 output = encoder(x)
 ```
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 This project helps reinforce understanding of:
 
@@ -86,7 +86,7 @@ This project helps reinforce understanding of:
 -   Transformer architecture internals\
 -   Building and debugging modular deep-learning code
 
-## 📜 License
+## License
 
 This project is for educational purposes.\
 You may adapt or reuse the code with proper attribution.
